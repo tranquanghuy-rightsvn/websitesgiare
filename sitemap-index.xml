@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<sitemapindex xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/siteindex.xsd">
+  <sitemap>
+    <loc>https://www.websitegiare.co/sitemaps/media.xml</loc>
+    <lastmod>2023-11-16T01:57:37+00:00</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://www.websitegiare.co/sitemaps/media-luu-tru.xml</loc>
+    <lastmod>2023-11-16T01:57:37+00:00</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://www.websitegiare.co/sitemaps/sitemap-static.xml</loc>
+    <lastmod>2023-10-10T16:11:54+00:00</lastmod>
+  </sitemap>
+</sitemapindex>
