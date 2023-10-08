@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /kho-giao-dien/
+
+Sitemap: https://websitegiare.co/sitemap.xml
