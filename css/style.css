@@ -517,13 +517,12 @@ p{
 .media-img{
   width: 160px;
   height: 160px;
-  overflow: hidden;
   margin-right: 10px;
 }
 
 .media-img img{
-  width: 100%;
-  height: auto;
+  width: 160px;
+  height: 160px;
 }
 
 .store-header{
